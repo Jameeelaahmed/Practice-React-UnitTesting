@@ -1,2 +1,2 @@
 # Practice-React-UnitTesting
-Practice-React-UnitTesting with maxmilian react course section 31
+Practice React Unit Testing using JEST with maxmilian react course section 31
